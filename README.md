@@ -1,2 +1,3 @@
-# auto-data-visualizer-yros
-A repository to test GitHub automation for issue management
+# Auto Data Visualizer Yros
+
+A repository to test GitHub automation for issue management.
